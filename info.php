@@ -1,7 +1,8 @@
 <?php
 
-// testing
+// testing git functionality
 
+// show the php environment
 phpinfo();
 
 ?>
