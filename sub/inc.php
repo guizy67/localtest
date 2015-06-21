@@ -2,6 +2,6 @@
 
 // this is a file in the subdir
 
-$ar = "This is a var";
+$var = "This is a var";
 
 ?>
